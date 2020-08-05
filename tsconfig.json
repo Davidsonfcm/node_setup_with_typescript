@@ -20,7 +20,8 @@
     "paths": {
       "@controllers/*": ["./src/controllers/*"],
       "@views/*": ["./src/views/*"],
-      "@models/*": ["./src/models/*"]
+      "@models/*": ["./src/models/*"],
+      "@config/*": ["./src/config/*"]
     }
   },
   "exclude": [
